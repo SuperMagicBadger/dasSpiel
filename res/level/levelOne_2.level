@@ -1,0 +1,20 @@
+[palatte] tile space
+[palatte] tile tile
+[palatte] tile whut
+
+[size] 25 25 1
+
+[blanket]       0 0 0       10 10 1     2
+[blanket_pass]  0 0 0       10 10 1     1
+
+[blanket]       15 0 0      10 10 1     2
+[blanket_pass]  15 0 0      10 10 1     1
+
+[blanket]       0 15 0      10 10 1     2
+[blanket_pass]  0 15 0      10 10 1     1
+
+[blanket]       15 15 0     10 10 1     2
+[blanket_pass]  15 15 0     10 10 1     1
+
+[blanket]       10 9 0      5 7 1       1
+[blanket_pass]  10 9 0      5 7 1       1

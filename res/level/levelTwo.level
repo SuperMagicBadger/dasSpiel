@@ -1,0 +1,38 @@
+[palatte] DasSprite Sky
+[palatte] DasSprite Tile
+[palatte] DasSprite Ladder
+
+[size] 17 10 2
+
+[blanket]       0 0 0   17 10 1     1
+
+
+[blanket]       0 0 0   8 4 1       2
+[blanket_pass]  0 0 0   8 4 1       1
+
+[blanket]       0 6 0   8 4 1       2
+[blanket_pass]  0 6 0   8 4 1       1
+
+[blanket]       9 0 0   8 4 1       2
+[blanket_pass]  9 0 0   8 4 1       1
+
+[blanket]       9 6 0   8 4 1       2
+[blanket_pass]  9 6 0   8 4 1       1
+
+[blanket]       0 4 0   4 2 1       2
+[blanket_pass]  0 4 0   4 2 1       1
+
+[blanket]       13 4 0  4 2 1       2
+[blanket_pass]  13 4 0  4 2 1       1
+
+[blanket]       8 2 0   1 1 1       2
+[blanket_pass]  8 2 0   1 1 1       1
+
+[blanket]       8 7 0   1 1 1       2
+[blanket_pass]  8 7 0   1 1 1       1
+
+[entrance] 1 1
+[entrance] 13 8
+
+[transition] levelOne   1 1 1   0   3
+[transition] levelThree 13 8 1  0   3

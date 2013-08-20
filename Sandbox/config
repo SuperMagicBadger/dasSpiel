@@ -1,0 +1,5 @@
+screenx 1000
+screeny 500
+color_depth 32
+logicp 1000
+graphicsp = 10

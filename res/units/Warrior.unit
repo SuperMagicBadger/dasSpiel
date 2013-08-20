@@ -1,0 +1,8 @@
+[unit] warrior
+[sprite] player player
+[stats] 12 8 0
+[max_hp] 12
+[speed] 30
+[regen] 0.08
+[base_weapon] sword_of_awesome
+[/unit]

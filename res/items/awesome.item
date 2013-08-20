@@ -1,0 +1,15 @@
+[weapon] dagger_of_awesome
+[level] 0
+[weight] 1
+[damage] 2
+[speed] 3
+[modifier] [dex] 1
+[/weapon]
+
+[weapon] sword_of_awesome
+[level] 0
+[weight] 1
+[damage] 5
+[speed] 1
+[modifier] [str] 1
+[/weapon]

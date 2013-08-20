@@ -1,0 +1,8 @@
+[unit] kobold
+[sprite] DasSprite Golbin
+[stats] 4 8 0
+[max_hp] 12
+[speed] 40
+[regen] 0.08
+[base_weapon] dagger_of_awesome
+[/unit]

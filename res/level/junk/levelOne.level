@@ -1,0 +1,31 @@
+[palatte] DasSprite Sky
+[palatte] DasSprite Tile
+[palatte] tile whut
+[palatte] DasSprite Ladder
+
+[size] 25 25 2
+
+[blanket]       0 0 0       25 25 1    1
+
+[blanket]       0 0 0       10 10 1     2
+[blanket_pass]  0 0 0       10 10 1     1
+
+[blanket]       15 0 0      10 10 1     2
+[blanket_pass]  15 0 0      10 10 1     1
+
+[blanket]       0 15 0      10 10 1     2
+[blanket_pass]  0 15 0      10 10 1     1
+
+[blanket]       15 15 0     10 10 1     2
+[blanket_pass]  15 15 0     10 10 1     1
+
+[blanket]       10 9 0      5 7 1       2
+[blanket_pass]  10 9 0      5 7 1       1
+
+[monster] kobold 20  8
+[monster] kobold 22  8
+//[monster] kobold 21  9
+
+[entrance] 0 0
+[entrance] 2 2
+[transition] levelOne_1 2 2 1 0 4

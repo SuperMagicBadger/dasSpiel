@@ -1,0 +1,15 @@
+[weapon] iron_dagger
+[level] 0
+[weight] 1
+[damage] 1
+[speed] 3
+[modifier] [dex] 0.75
+[/weapon]
+
+[weapon] iron_sword
+[level] 0
+[weight] 1
+[damage] 3
+[speed] 1
+[modifier] [str] 1
+[/weapon]
